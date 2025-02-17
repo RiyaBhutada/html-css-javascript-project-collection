@@ -6,7 +6,8 @@ This document provides an overview of various HTML, CSS, and JavaScript projects
 
 ### 📂 Projects List
 
-#### 1️⃣ Color Game
+#### 1️) <a href="https://riyabhutada.github.io/html-css-javascript-project-collection/Color%20Game/colorGame.html">Color Game</a>
+
 Identify the correct color based on the hexadecimal code presented
 Tools Used:
 - HTML
