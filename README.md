@@ -6,7 +6,7 @@ This document provides an overview of several <b>responsive web projects</b>. Cl
 
 ### 📂 Projects List
 
-#### 1️) <a href="https://riyabhutada.github.io/html-css-javascript-project-collection/NASA%20API%20APOD%20Viewer/index.html">NASA API APOD Viewer</a>
+#### 1️) <a target="_blank" href="https://riyabhutada.github.io/html-css-javascript-project-collection/NASA%20API%20APOD%20Viewer/index.html">NASA API APOD Viewer</a>
 Explore NASA's Astronomy Picture of the Day (APOD). Users can load images from NASA's APOD API, add them to favorites, and manage their favorite selections with a seamless and engaging user experience.
 Tools Used: NASA API, HTML, CSS, JavaScript
 
