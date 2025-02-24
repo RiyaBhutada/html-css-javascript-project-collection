@@ -20,12 +20,6 @@ The NASA APOD Viewer is a web application that allows users to explore NASA's As
 Modern UI: Designed an interactive interface using HTML, CSS, and JavaScript for a smooth user experience.
 <br/>
 
-🚀 Steps to Run
-1) Clone the repository: git clone https://github.com/RiyaBhutada/nasa-api-apod-viewer.git
-2) Navigate to the project folder: cd nasa-api-apod-viewer
-3) Open index.html in a browser to start exploring NASA’s APOD images.
-<br/>
-
 🔮 Future Scope
 - Search Functionality: Allow users to search for APODs by date or keyword.
 - User Authentication: Implement user accounts for personalized favorites management.
